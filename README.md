@@ -14,7 +14,7 @@ Por ahora se cuenta con una herramienta basada en el siguiente modelo, la cual b
 
 ![](images/deployment.png)
 
-Nota
+Nota hola
 Puntos 1 y 2: proyecto **moneylaunderingtool**. Punto 3: proyecto **moneylaunderingapi**.
 
 1. **[33%]** Haga que el programa divida y paralelice la búsqueda de las cuentas bancarias fraudulentas en exactamente 5 hilos de ejecución, para ello cada hilo debe buscar en una porción de archivos diferente, si se requiere, el numero de hilos debe poder cambiarse.
